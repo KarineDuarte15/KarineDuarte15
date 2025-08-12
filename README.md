@@ -1,8 +1,8 @@
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-# 💻 Erika Karine Duarte <img width="1000" height="1000" alt="octocat-1755029629620" src="https://github.com/user-attachments/assets/b053d917-7d1c-4239-9d56-7ea0304ce4db" />
-
-
-Desenvolvedora **Fullstack** apaixonada por **tecnologia, educação e inovação**.  
+# 💻 Karine Duarte <img width="720" height="1080" alt="d1572401-f894-4751-b204-512aadb15166_20250812_172826_0000" src="https://github.com/user-attachments/assets/33b5b101-2cf6-40ba-a4b4-52db1d6b76ee" />
+# Olá, me chamo Karine ! 
+## Bem vindo ao meu perfil GitHub 👋
+Desenvolvedora **Fullstack** apaixonada por **tecnologia, educação e inovação** especialista em **Back-End** estudante de **Ciências de Dados**.  
 Atualmente sou **aluna da [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br)** no curso de **Análise e Desenvolvimento de Sistemas** e participante do **Programa [ONE G09 - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.  
 
 💼 Trabalho como **Desenvolvedora Fullstack** e na empresa **ACI CONTABILIDADE**.  
