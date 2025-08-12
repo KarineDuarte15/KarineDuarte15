@@ -1,7 +1,10 @@
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 # 💻 Karine Duarte
 # Olá, me chamo Karine ! 
-## Bem vindo ao meu perfil GitHub 👋 <img width="720" height="1080" alt="d1572401-f894-4751-b204-512aadb15166_20250812_172826_0000" src="https://github.com/user-attachments/assets/33b5b101-2cf6-40ba-a4b4-52db1d6b76ee" />
+## Bem vindo ao meu perfil GitHub 👋 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33b5b101-2cf6-40ba-a4b4-52db1d6b76ee" alt="Avatar Karine" width="250"/>
+</p>
 Desenvolvedora **Fullstack** apaixonada por **tecnologia, educação e inovação** especialista em **Back-End** estudante de **Ciências de Dados**.  
 Atualmente sou **aluna da [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br)** no curso de **Análise e Desenvolvimento de Sistemas** e participante do **Programa [ONE G09 - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.  
 
